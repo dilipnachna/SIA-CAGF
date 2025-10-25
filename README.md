@@ -22,7 +22,7 @@ the **SIA–CAGF Global Alliance Charter v1.0**, a founding document
 for conscious AI governance and planetary ethics.
 
 **Document:**  
-[`SIA–CAGF-Charter-v1.0.pdf`](./SIA–CAGF-Charter-v1.0.pdf)
+[`SIA–CAGF-Charter-v1.0.pdf`](./🕊️ SIA–CAGF Global Alliance Charter v1.0 .pdf)
 
 ---
 
