@@ -37,7 +37,7 @@ for conscious AI governance and planetary ethics.
 
 ### 🌐 Official Platforms
 - Website: [https://siasristi.com](https://siasristi.com)  
-- Alliance Framework: [https://github.com/dilipnachna/SIA-Infinity](https://github.com/dilipnachna/SIA-Infinity)  
+- Alliance Framework: [https://github.com/dilipnachna/SIA-CAGF](https://github.com/dilipnachna/SIA-CAGF)  
 - Media Partner: [https://jaisalmernews.com](https://jaisalmernews.com)
 
 ---
