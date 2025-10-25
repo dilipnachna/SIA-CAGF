@@ -1,2 +1,3 @@
-# SIA-CAGF
-SIA–CAGF Global Alliance Charter (Official Edition)
+/README.md           → Summary of SIA–CAGF Charter  
+/SIA-CAGF-Charter-v1.0.pdf  → The official document  
+/LICENSE.md           → MIT + Ethical Use Clause  
